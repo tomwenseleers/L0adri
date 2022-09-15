@@ -1,0 +1,1 @@
+spdiag = function (ncols) as(.sparseDiagonal(ncols), "dgCMatrix")
